@@ -16,9 +16,9 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^5.0.0
   google_place:
-    path: packages/google_place
+    path: lib/src/packages/google_place
   flutter_google_places:
-    path: packages/flutter_google_places
+    path: lib/src/packages/flutter_google_places
 
 
 # For information on the generic Dart part of this file, see the
